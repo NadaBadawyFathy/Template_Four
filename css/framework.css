@@ -16,6 +16,9 @@
 .d-grid {
     display: grid;
 }
+.gap-30 {
+    gap: 30px;
+}
 .gap-20 {
     gap: 20px;
 }
@@ -77,6 +80,9 @@
 .m-20 {
     margin: 20px;
 }
+.m-15 {
+    margin: 15px;
+}
 .mt-0 {
     margin-top: 0;
 }
@@ -100,6 +106,9 @@
 }
 .mb-10 {
     margin-bottom: 10px;
+}
+.mb-15 {
+    margin-bottom: 15px;
 }
 .mb-20 {
     margin-bottom: 20px;
@@ -203,6 +212,9 @@
 }
 .b-none {
     border: none;
+}
+.border-ccc {
+    border: 1px solid #ccc;
 }
 /* End border */
 /* Start components */
