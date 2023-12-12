@@ -899,7 +899,6 @@ ul {
 @media (max-width: 767px) {
     .projects-page .project .info {
         flex-direction: column;
-        text-align: center;
     }
 }
 .projects-page .project .prog {
